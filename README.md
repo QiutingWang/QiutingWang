@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Doris Wang</h2>
-<h3 align="center">Data Science | Machine Learning Engineer |Frond-end Developer</h3>
+<h3 align="center">Data Science | Machine Learning Engineer | Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning | NLP | Computer Vision**
+- 🌱 I’m currently learning Deep Learning,  NLP , Computer Vision
 
 - 📫 How to reach me **DorisWang0917@outlook.com**
 
