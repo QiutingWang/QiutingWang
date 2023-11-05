@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doris Wang</h1>
 <h3 align="center">Data Scientist | Quantitative Financial Analyst | Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **MLOps, LLM, Parallel Computing**
+- 🌱 I’m currently learning **System Design, Large Language Model, Parallel Computing**
 
 - 📫 How to reach me **DorisWang0917@outlook.com**
 
